@@ -1,6 +1,12 @@
 # Going Live checklist
 
-
+## Code
+* There should not be any cout, echo, or any print statements
+* There should not be any credentials/keys/secreats with in the code
+* Code should create necessary folder as and when required, and throw proper error if a pre-exisitng needed folder is missing, otheriwse it should create
+* Code must defend SQL or NoSQL Injections
+* Code must contain startup script that initialize the basic database records for normal app function
+* If code suppose to delete any folder or file (images/documents), please its actually deleted (On deletion of product all its relevat images must be deleted)
 ## Design
 * Contents is consistent throughout the platform
 * Check for crossbrowser compatibility on both mobile and desktop devices (Firefox, Edge, Safari, Chrome)
