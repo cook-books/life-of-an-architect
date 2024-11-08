@@ -21,4 +21,4 @@
 * Experince in managing NoSQL  Cluster (MongoDB)
 * Experince in managing Relational Database Cluster(MySQL, PostgreSQL)
 
-[Back to Tech Positions](tech-job-description.md)
+[Back to Tech Positions](readme.md)

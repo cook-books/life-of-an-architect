@@ -22,4 +22,4 @@
 * Excellent communication skills, with the ability to effectively collaborate with cross-functional teams and stakeholders.
 * Strong problem-solving skills and a proactive approach to driving high-quality software delivery.
 
-[Back to Tech Positions](tech-job-description.md)
+[Back to Tech Positions](readme.md)

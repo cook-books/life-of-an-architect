@@ -22,4 +22,4 @@
 * Excellent problem-solving skills and the ability to lead technical discussions and architectural reviews.
 * Strong communication and leadership skills, with the ability to collaborate with cross-functional teams and mentor engineers.
 
-[Back to Tech Positions](tech-job-description.md)
+[Back to Tech Positions](readme.md)

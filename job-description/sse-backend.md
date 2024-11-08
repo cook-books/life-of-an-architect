@@ -23,4 +23,4 @@
 * Full command over Git repository
 
 
-[Back to Tech Positions](tech-job-description.md)
+[Back to Tech Positions](readme.md)

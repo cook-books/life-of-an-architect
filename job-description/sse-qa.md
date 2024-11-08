@@ -16,4 +16,4 @@
 * Strong analytical and troubleshooting skills for high-availability applications.
 * Must be able to trouble shoot through logs, database and events
 
-[Back to Tech Positions](tech-job-description.md)
+[Back to Tech Positions](readme.md)
