@@ -10,10 +10,20 @@
 
 ## Requirements:
 
-* 5+ years of iOS development experience, proficient in Swift and Objective-C.
+* 4-5 years of iOS development experience, proficient in Swift.
 * Expertise with performance tools like Instruments, Xcode Profiler, and Crashlytics.
 * Strong knowledge of mobile architectures and best practices for high-availability apps.
 * Familiarity with event tracking, analytics, and user experience optimization.
 * Experience with CI/CD pipelines and test-driven development.
+
+## Mandatory (Absolute must):
+* SOLID Principle and Design Patterns
+* iOS SDK Understanding (Guru)
+* REST API Knowledge and Integrations
+* Understanding of security: Code obfuscation, encryption, SSL Pinning and Keychain.
+* Full command over Git repository
+* Must have experince SOLID Principle and Design Patterns
+* Must have experince Unit & Integration testing
+
 
 [Back to Tech Positions](tech-job-description.md)

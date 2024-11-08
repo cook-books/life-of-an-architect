@@ -10,10 +10,10 @@
 
 ## Requirements:
 
-* 5+ years of QA experience with expertise in automation testing tools (Selenium, Appium, or similar).
+* 3-4 years of QA experience with expertise in automation testing tools (Selenium, Appium, or similar).
 * Knowledge of performance testing for high-traffic applications.
 * Proficiency in test management and monitoring tools.
-* Experience in setting up CI/CD testing environments using Docker and Kubernetes.
 * Strong analytical and troubleshooting skills for high-availability applications.
+* Must be able to trouble shoot through logs, database and events
 
 [Back to Tech Positions](tech-job-description.md)

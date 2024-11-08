@@ -10,10 +10,14 @@
 
 ## Requirements:
 
-* 5+ years of experience in ReactJS and NextJS for building high-traffic web applications.
+* 3-4 years of experience in ReactJS (Absolute must) and NextJS for building high-traffic web applications.
 * Proficiency in modern JavaScript, TypeScript, and frontend performance optimization techniques.
 * Experience with analytics tools, event tracking, and performance profiling.
 * Knowledge of RESTful and GraphQL APIs, state management libraries (Redux), and CSS frameworks.
 * Strong debugging skills and experience with CI/CD pipelines.
+* Full command over Git repository, bitbucket/github hooks and tirggers
+* Must have experince SOLID Principle and Design Patterns
+* Must have experince Unit & Integration testing
+
 
 [Back to Tech Positions](tech-job-description.md)
