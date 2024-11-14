@@ -21,4 +21,6 @@
 * Experince in managing NoSQL  Cluster (MongoDB)
 * Experince in managing Relational Database Cluster(MySQL, PostgreSQL)
 
+
+[DevOps Evaluation](./evaluation/devops-evaluation.md)
 [Back to Tech Positions](readme.md)
